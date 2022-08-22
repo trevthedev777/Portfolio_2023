@@ -81,6 +81,9 @@ Visit The Live Website: [Trevor Lehmann Portfolio Website 2023]()
 
 ### Colors
 
+-   Theme for Portfolio website 
+    ![Theme Colors]()
+
 ### Styling/Feeling
 
 ### Audio/Video/Images
@@ -112,6 +115,10 @@ Visit The Live Website: [Trevor Lehmann Portfolio Website 2023]()
 ## Features
 
 ### Sign up for Newsletter
+
+<!-- Insert back to table contents link -->
+
+### Send Contact Form
 
 <!-- Insert back to table contents link -->
 
