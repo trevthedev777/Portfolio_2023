@@ -81,8 +81,8 @@ Visit The Live Website: [Trevor Lehmann Portfolio Website 2023]()
 
 ### Colors
 
--   Theme for Portfolio website 
-    ![Theme Colors]()
+-   Theme for Portfolio website
+    ![Theme Colors](https://github.com/trevthedev777/Portfolio_2023/blob/master/assets/img/readme_imgs/Trevor%20Lehmann%20Portfolio%20Theme.png?raw=true)
 
 ### Styling/Feeling
 
